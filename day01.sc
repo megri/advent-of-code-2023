@@ -1,6 +1,3 @@
-//> using scala 3.3.1
-//> using toolkit latest
-
 def input = os.read(os.pwd / "inputs" / "day01.txt").linesIterator
 
 
